@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 📚 Pursuing Computer Engineering with a focus on Machine Learning and Data Analytics.
 - 💼 2 years professional work experience working as a Data Engineer @ LTIMindtree - HSBC
 - 🚀 Aim to become a Principal Data Engineer, armed with solid principles in data science and analytics.
-  Plus, I'm a total machine learning enthusiast! 🤖
 - 📫 Reach out to me at: [https://www.linkedin.com/in/beenaasalian/]
 - ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes! 🧩
