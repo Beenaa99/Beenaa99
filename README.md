@@ -5,9 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🎓 Current computer grad student at Virginia Tech! Go Hokies! 🦃
-- 📚 Pursuing Computer Engineering with a focus on Machine Learning and Data Analytics.
-- 💼 2 years professional work experience working as a Data Engineer @ LTIMindtree - HSBC
-- 🚀 Aim to become a Principal Data Engineer, armed with solid principles in data science and analytics.
-- 📫 Reach out to me at: [https://www.linkedin.com/in/beenaasalian/]
+
+- 🎓 Computer Engineering grad student at Virginia Tech (Go Hokies! 🦃) 
+- 🧠 Specializing in Machine Learning (Natural Language Processing, Deep Learning, Data Analytics, etc)
+- 🌱 Previously: Data Engineer at HSBC's Group Data Tech Department building data pipelines at scale
+- 🚀 Passionate about and large language model applications and scalable data infrastructure
+- 💻 Experience building RAG pipelines with advanced chunking, retrieval techniques and knowledge graphs.
+- 🔬 Experience in Finetuning LLMs (Gemma, T5, BART, etc)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/beenaasalian/)
 - ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes! 🧩
